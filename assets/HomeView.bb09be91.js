@@ -1,0 +1,1 @@
+import{o as a,c as o,b as e,w as t,V as s,d as c,h as n,ba as r}from"./index.3e37aa18.js";const l=n("h1",{class:"text-center"},"\u8ACB\u9078\u64C7\u7BA1\u7406\u9805\u76EE",-1);function d(f,i){return a(),o("div",null,[e(s,null,{default:t(()=>[e(c,{cols:"12"},{default:t(()=>[l]),_:1})]),_:1})])}const _={},V=r(_,[["render",d]]);export{V as default};
